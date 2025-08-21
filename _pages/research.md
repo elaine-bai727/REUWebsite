@@ -17,6 +17,8 @@ The discovery of exotic transients (i.e. Gravitational Waves) have provided majo
 ### Poster
 Download: [PDF]({{ base_path }}/files/POSTER.pdf)
 
+### Acknowledgements
+This material is based upon work supported by the National Science Foundation (NSF) under Grant Numbers AST-2149425 and AST-2446392. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the NSF. 
 ## Spectroscopic Diagnostics of Magnetic Activity in Sub-Subgiants
 Summer 2024 - Present <br>
 Illinois Institute of Technology <br>
@@ -26,4 +28,7 @@ Since their discovery, sub-subgiant stars (SSGs) have been a puzzling phenomenon
 <br>
 ### Poster
 Here is the poster that was presented at the 245th Meeting of the American Astronomical Society: [Poster](https://aas245-aas.ipostersessions.com/?s=55-F0-8A-B5-A5-F0-22-F7-1F-52-56-72-43-15-50-7C).
+### Acknowledgements
+The Coudé data and the data analysis used in the this project tools were provided by Ben Tofflemire <br>
+This project was funded by the Lewis College of Science and Letters Summer Undergraduate Research Fellowship at the Illinois Institute of Technology
 
