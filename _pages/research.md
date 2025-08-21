@@ -7,7 +7,7 @@ author_profile: true
 {% include toc %}
 {% include base_path %}
 
-## Finding the Redshift Completeness Factor of the Local Universe
+## Finding the Redshift Completeness Fraction of the Local Universe
 Summer 2025  <br>
 Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA), Northwestern University <br>
 Advisors: Adam Miller and Steve Schulze
