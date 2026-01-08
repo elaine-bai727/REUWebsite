@@ -17,8 +17,12 @@ The Bright Transient Survey (BTS) conducted by the Zwicky Transient Facility (ZT
 ### Poster
 Download: [PDF]({{ base_path }}/files/POSTER.pdf)
 
+Here is the poster that was presented at the 247th Meeting of the American Astronomical Society: [AAS Poster](https://aas247-aas.ipostersessions.com/default.aspx?s=89-20-9F-AA-10-0A-66-C2-3E-6B-8F-F0-D1-32-74-42).
+
+
 ### Acknowledgements
 This material is based upon work supported by the National Science Foundation (NSF) under Grant Numbers AST-2149425 and AST-2446392. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the NSF. 
+
 ## Spectroscopic Diagnostics of Magnetic Activity in Sub-Subgiants
 Summer 2024 - Present <br>
 Illinois Institute of Technology <br>
