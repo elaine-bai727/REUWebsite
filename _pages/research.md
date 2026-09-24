@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Finding the Redshift Completeness Fraction of the Local Universe
-Summer 2025  <br>
+Summer 2025 - Present <br>
 Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA), Northwestern University <br>
 Advisors: Adam Miller and Steve Schulze
 ### Abstract
@@ -24,7 +24,7 @@ Here is the poster that was presented at the 247th Meeting of the American Astro
 This material is based upon work supported by the National Science Foundation (NSF) under Grant Numbers AST-2149425 and AST-2446392. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the NSF. 
 
 ## Spectroscopic Diagnostics of Magnetic Activity in Sub-Subgiants
-Summer 2024 - Present <br>
+Summer 2024 - Spring 2026 <br>
 Illinois Institute of Technology <br>
 Advisor: Emily Leiner
 ### Abstract 
