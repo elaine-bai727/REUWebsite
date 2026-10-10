@@ -1,3 +1,4 @@
+---
 permalink: /research/SSGs/
 title: "Sub-Sub Giants"
 author_profile: true
