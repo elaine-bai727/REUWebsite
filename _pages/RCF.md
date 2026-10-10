@@ -1,6 +1,6 @@
 ---
 permalink: /research/RCF/
-title: "Redshift Completeness Fraction and Mass Completeness Fraction
+title: "Redshift Completeness Fraction and Mass Completeness Fraction"
 author_profile: true
 ---
 ## What is the RCF and MCF
