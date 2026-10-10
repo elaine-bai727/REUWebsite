@@ -1,14 +1,14 @@
 /* ==========================================================================
-   DARK THEME
+   Midnight THEME
    ========================================================================== */
 
 /* Color codes used for the theme */
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
+$midnight                   : #011626;
+$dark-gray                  : mix(#000, $midnight, 40%);
+$darker-gray                : mix(#000, $midnight, 60%);
+$light-gray                 : mix(#fff, $midnight, 50%);
 
-$background                 : #474747;
+$background                 : $midnight;
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #ffffff;
