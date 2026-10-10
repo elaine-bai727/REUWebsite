@@ -7,13 +7,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+{::comment}
 ![HST image from PHAT of cluster, association, and galaxy](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/5/1928/files/2017/09/cropped-b21crop-12qj9v2.png)
-
+{:/comment}
 ---------
 
-I am Elaine Bai and I am a fourth year astrophysics and physics student at the Illinois institute of Technology. I am primarly intrested in observational stellar astronomy and transients. This summer, I worked with professor Adam Miller on finding the Redshift Completeness Fraction - the fraction of galaxies whose redshifts are known - of Nearby Galaxies. 
+I am Elaine Bai and I graduated from the Illinois Institute of Technology on May 16, 2026 with a B.S. in Astrophysics and a B.S in Physics. I am primarly intrested in observational stellar astronomy and transients. In the summer of 2026, I worked with professor Adam Miller on finding the Redshift Completeness Fraction - the fraction of galaxies whose redshifts are known - of Nearby Galaxies. 
 
+Publications List: [via ADS](https://scixplorer.org/search?p=1&q=orcid%3A0009-0007-4608-6056&sort=score+desc&sort=date+desc&d=astrophysics)
 {::comment}
 Publications List: [via ADS](https://scixplorer.org/search?p=1&q=orcid%3A0009-0007-4608-6056&sort=score+desc&sort=date+desc&d=astrophysics)
 
