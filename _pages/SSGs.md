@@ -3,8 +3,12 @@ permalink: /research/SSGs/
 title: "Sub-Sub Giants"
 author_profile: true
 ---
-{% include toc %} {% include base_path %}
 ##What Are SSGs
+
 ##Part I: Spectroscopic Classification of SSGs
-##Metalicity Based Classifications of SSGs
-##Ultraviolet Excesss in SSGs
+Summer 2024
+##Part II: Metallicity Based Classifications of SSGs
+Fall 2024-Spring 2026
+##Part III Ultraviolet Excesss in SSGs
+Fall 2025-Spring 2026
+
