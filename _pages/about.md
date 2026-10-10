@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-![CIERA REU Logo]({{ base_path }}/images/2926915_19704,jpg.png){:width="100"}
+![CIERA REU Logo]({{ base_path }}/images/2926915_19704.jpg){:width="100"}
 ---------
 
 I am Elaine Bai and I graduated from the Illinois Institute of Technology on May 16, 2026 with a B.S. in Astrophysics and a B.S in Physics. I am primarly intrested in observational stellar astronomy and transients. In the summer of 2026, I worked with professor Adam Miller on finding the Redshift Completeness Fraction - the fraction of galaxies whose redshifts are known - of Nearby Galaxies. 
